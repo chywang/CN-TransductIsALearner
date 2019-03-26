@@ -1,4 +1,3 @@
-package model;
 
 public class Pair implements Comparable<Pair> {
 	private String entity;

@@ -1,4 +1,3 @@
-package model;
 
 public class PairPara {
 
@@ -8,7 +7,7 @@ public class PairPara {
 	private String hypo;
 	private String hyper;
 	private boolean isTrain;
-	
+
 	public PairPara(double labelScore, double predictedScore, double confScore, String hypo, String hyper,
 			boolean isTrain) {
 		super();
@@ -67,5 +66,5 @@ public class PairPara {
 	public void setTrain(boolean isTrain) {
 		this.isTrain = isTrain;
 	}
-	
+
 }
