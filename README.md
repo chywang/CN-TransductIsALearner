@@ -39,7 +39,7 @@
 
 2. It requires the FudanNLP toolkit for Chinese NLP analysis (https://github.com/FudanNLP/fnlp/), and the JAMA library for matrix computation (https://math.nist.gov/javanumerics/jama/). We use Jama-1.0.3.jar in this project.
 
-**Paper**
+**Citation**
 
 If you find this software useful for your research, please cite the following paper.
 
