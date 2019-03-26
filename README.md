@@ -2,7 +2,7 @@
 
 ### By Chengyu Wang (https://chywang.github.io)
 
-**Introducion:** This software classifies Chinese word pars into hypernymy vs. non-hypernymy relations based on transductive non-linear projection learning. Two datasets of Chinese word pairs (i.e., a training set and a testing set), together with all the embedding vectors of associated Chinese word pairs should be provided as inputs. The software authormantically trains the model and makes predictions over the testing set.
+**Introducion:** This software classifies Chinese word pairs into hypernymy vs. non-hypernymy relations based on transductive non-linear projection learning. Two datasets of Chinese word pairs (i.e., a training set and a testing set), together with all the embedding vectors of associated Chinese word pairs should be provided as inputs. The software authormantically trains the model and makes predictions over the testing set.
 
 **Paper:** Wang et al. Transductive Non-linear Learning for Chinese Hypernym Prediction. ACL 2017
 
