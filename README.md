@@ -43,12 +43,12 @@
 
 If you find this software useful for your research, please cite the following paper.
 
-> @inproceedings{acl2017,
-&emsp;&emsp; author = {Chengyu Wang and Junchi Yan and Aoying Zhou and Xiaofeng He},  
-&emsp;&emsp; title = {Transductive Non-linear Learning for Chinese Hypernym Prediction},
-&emsp;&emsp; booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics},
-&emsp;&emsp; pages = {1394–1404},
-&emsp;&emsp; year = {2017}
+> @inproceedings{acl2017,<br/>
+&emsp;&emsp; author = {Chengyu Wang and Junchi Yan and Aoying Zhou and Xiaofeng He},<br/>
+&emsp;&emsp; title = {Transductive Non-linear Learning for Chinese Hypernym Prediction},<br/>
+&emsp;&emsp; booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics},<br/>
+&emsp;&emsp; pages = {1394–1404},<br/>
+&emsp;&emsp; year = {2017}<br/>
 }
 
 More research works can be found here: https://chywang.github.io.
