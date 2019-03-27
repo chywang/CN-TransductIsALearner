@@ -13,6 +13,8 @@
 
 1. w2vPath: The embeddings of all Chinese words in either the training set or the testing set. The start of each line of the file is the Chinose word, followed by the embedding vectors. All the values in a line are separated by a blank (' '). In practice, the embeddings can be learned by all deep neural language models.
 
+> NOTE: Due to the large size of neural language models, we only upload the embedding vectors of words in the training and testing sets. Please use your own neural language model instead, if you would like to try the algorithm over your datasets.
+
 2. trainPath: The path of the training set in the format of "word1 \t word2 \t label" triples. As for the label, 1 is for the hypernymy relation and 0 is for the non-hypernymy relation.
 
 3. testPath: The path of the testing set. The format of the testing set is the same as that of the training set.
